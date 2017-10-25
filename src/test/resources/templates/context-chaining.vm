@@ -1,0 +1,4 @@
+#* @implicitly included *#
+#* @vtlvariable name="name" type="java.lang.String" *#
+#* @vtlvariable name="birthday" type="java.lang.String" *#
+${name} ${birthday}

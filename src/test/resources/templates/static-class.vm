@@ -1,0 +1,1 @@
+${WordUtil.of(${name}).toUpper().out()}
